@@ -1,35 +1,7 @@
-<h1>React Weather App - ReactJS Projects</h1>
-
-<h3><strong>Demo - Deployed over Github Pages</strong></h3>
-https://jiyauddin9.github.io/react-weather-app/
+<h1WeatherSensei</h1>
 
 
-<h3><strong>APIs Used</strong></h3>
 
-<a href="https://openweathermap.org/">Open Weather APIs</a>
-
-https://openweathermap.org/current
-
-<h3><strong>API Info</strong></h3>
-
-<ul>
-   <li>Method: GET</li>
-   <li>URL: https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}</li>
-</ul>
-
-<h3><strong>Icons & Font -</strong></h3>
-
-<ul>
-   <li>Icons: https://github.com/Jiyauddin9/react-weather-app/tree/main/public/icon</li>
-   <li>https://openweathermap.org/weather-conditions</li>
-   <li>Font Link: link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet"></li>
-</ul>
-<h3><strong>Libraries used</strong></h3>
-<ul>
-   <li>styled-components</li>
-   <li>axios</li>
-   <li>react-scripts</li>
-</ul>
 
 
 
